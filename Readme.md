@@ -1,9 +1,5 @@
 # LFX-Mentorship-Proposal-3170
 
-## OutLine
-
-[toc]
-
 ## About
 
 This is a repository of LFX pretest
